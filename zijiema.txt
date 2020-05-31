@@ -1,0 +1,72 @@
+
+写入时间：2020-05-25 15:15:51
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:15:51
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:15:51
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:19:03
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:19:03
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:19:03
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:21:04
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:21:04
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
+
+写入时间：2020-05-25 15:21:04
+PUSH     0     0     0     3     
+PUSH     0     0     0     4     
+ADD     DUP     PUSH     0     0     
+0     5     SUB     IFNE     0     
+0     0     6     PUSH     0     
+0     0     4     SUB     HALT     
